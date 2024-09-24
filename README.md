@@ -1,2 +1,2 @@
 # Person_Reidentification_Video
-This project aims to reidentify the person in a video survillience using clustering.
+Person reidentification is the task of matching individuals across different camera views in a surveillance system. This project uses clustering techniques to group and reidentify individuals, focusing on improving accuracy and scalability
